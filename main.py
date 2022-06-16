@@ -13,5 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print("add something into main.py")
+    print("add version transfer")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
